@@ -40,3 +40,5 @@ X: 0x10 `128/256 of complexity`
 
 N: 0x0000000001 `project number 1`
 
+base64: `AQEAAAADEAAAAAAB`
+
